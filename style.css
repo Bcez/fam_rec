@@ -1,0 +1,19 @@
+body{
+    color:azure;
+    background-color: blueviolet;
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+.name_of_objects, #result_name, #result_accuracy{
+    color:cornsilk;
+}
